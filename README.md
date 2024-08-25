@@ -10,7 +10,7 @@ It also fetches all available offers for the selected movie or TV show in all co
 
 
 ## Docker
-[https://ghcr.io/nobraincellsleft/justwatch-search](https://ghcr.io/nobraincellsleft/justwatch-search)
+[https://cuszcxjwgrzbne.github.io/JustWatch-Search](https://cuszcxjwgrzbne.github.io/JustWatch-Search)
 ```
 docker pull ghcr.io/nobraincellsleft/justwatch-search:latest
 ```
